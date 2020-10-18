@@ -6,7 +6,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Toast;
 
-import com.hiy.hiybar.delegate.DefaultUITitleBarDelegate;
+import com.hiy.hiy_bar.UITitleBar;
+import com.hiy.hiy_bar.delegate.DefaultUITitleBarDelegate;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -24,5 +25,7 @@ public class MainActivity extends AppCompatActivity {
                 Toast.makeText(MainActivity.this, "hello world", Toast.LENGTH_LONG).show();
             }
         });
+
+        delegate.bindTitle(this, uiTitleBar, "hello");
     }
 }

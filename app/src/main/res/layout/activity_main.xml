@@ -6,10 +6,9 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <com.hiy.hiybar.UITitleBar
+    <com.hiy.hiy_bar.UITitleBar
         android:id="@+id/title_bar"
         android:layout_width="match_parent"
         android:layout_height="48dp"
         app:bar_bg_alpha="1" />
-
 </LinearLayout>

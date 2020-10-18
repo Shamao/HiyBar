@@ -2,7 +2,7 @@
 
 in xml file
 ```
- <com.hiy.hiybar.UITitleBar
+ <com.hiy.hiy_bar.UITitleBar
         android:id="@+id/title_bar"
         android:layout_width="match_parent"
         android:layout_height="48dp"
@@ -22,3 +22,5 @@ in java file
             }
         });
 ```
+
+具体使用可以查看  DefaultUITitleBarDelegate类， 也可以使用自己自定义的delegete

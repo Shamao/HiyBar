@@ -1,15 +1,14 @@
-package com.hiy.hiybar.delegate;
+package com.hiy.hiy_bar.delegate;
 
-import android.app.Activity;
 import android.content.Context;
 import android.util.Size;
 import android.view.View;
 
-import com.hiy.hiybar.R;
-import com.hiy.hiybar.UITitleBar;
-import com.hiy.hiybar.provider.DividerViewProvider;
-import com.hiy.hiybar.provider.ImageViewProvider;
-import com.hiy.hiybar.provider.TitleViewProvider;
+import com.hiy.hiy_bar.R;
+import com.hiy.hiy_bar.UITitleBar;
+import com.hiy.hiy_bar.provider.DividerViewProvider;
+import com.hiy.hiy_bar.provider.ImageViewProvider;
+import com.hiy.hiy_bar.provider.TitleViewProvider;
 
 
 public class DefaultUITitleBarDelegate {

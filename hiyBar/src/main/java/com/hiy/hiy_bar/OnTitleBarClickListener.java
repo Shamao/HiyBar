@@ -1,4 +1,4 @@
-package com.hiy.hiybar;
+package com.hiy.hiy_bar;
 
 import android.view.View;
 

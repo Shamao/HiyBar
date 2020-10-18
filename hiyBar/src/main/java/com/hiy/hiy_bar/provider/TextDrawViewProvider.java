@@ -1,4 +1,4 @@
-package com.hiy.hiybar.provider;
+package com.hiy.hiy_bar.provider;
 
 import android.annotation.SuppressLint;
 import android.content.Context;

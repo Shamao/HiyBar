@@ -1,4 +1,4 @@
-package com.hiy.hiybar;
+package com.hiy.hiy_bar;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
@@ -9,7 +9,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.RelativeLayout;
 
-import com.hiy.hiybar.provider.IViewProvider;
+import com.hiy.hiy_bar.provider.IViewProvider;
 
 
 /**
